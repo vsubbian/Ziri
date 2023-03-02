@@ -1,9 +1,10 @@
 # Team Ziri submission for NIH NCATS Bias Detection Challenge
 
-Our submission is just the single python file, tool.py. All that is needed is to download the file and run it from a python environment that is loaded with the appropriate dependencies. 
+Our submission is just the single python file, tool.py.
+All that is needed is to download the file and run it from a python environment that is loaded with the appropriate dependencies. 
 
 These depenencies are:
-Python 3.9.16 /n
+Python 3.9.16 
 Pandas 1.5.3
 Scipy 1.10.1
 Sklearn 1.2.1
